@@ -1,1 +1,2 @@
 this is a new thing called baz.txt
+new line 2
